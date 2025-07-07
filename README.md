@@ -4,4 +4,4 @@ A collaborative repo to share useful resources for job hunting (interview prep, 
 
 ## Structure
 - `companies/` – Company-specific hiring info (process, salaries, culture).
-- `general-resources/` – Resume guides, interview tips, negotiation strategies, etc.
+- `general-insights/` – Resume guides, interview tips, negotiation strategies, etc.
